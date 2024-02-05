@@ -1,2 +1,2 @@
-# Spotify-Project
-This is a repository that contains my spotify clone using html and css
+# To-Do List Project
+This is a repository that contains my To-do list project using html,css and javascript
